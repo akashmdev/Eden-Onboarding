@@ -2,7 +2,7 @@
 
 ### Design Link [(Click here)](https://dribbble.com/shots/15669113-Onboarding-Exploration/attachments/7464145?mode=media)
 
-### Deployed Link [(Click here)](https://eden.vercel.app/)
+### Deployed Link [(Click here)](https://eden-one.vercel.app/)
 
 ## How to use
 
